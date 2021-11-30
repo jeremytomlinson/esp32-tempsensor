@@ -1,5 +1,5 @@
 {
-  "name": "@projectarchetype/iot-dashboard-test",
+  "name": "@jeremytomlinson/iot-dashboard-test",
   "version": "0.0.1",
   "description": "",
   "main": "index.html",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProjectArchetype/iot-dashboard-test.git"
+    "url": "git+https://github.com/jeremytomlinson/esp32-tempsensor"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ProjectArchetype/iot-dashboard-test/issues"
+    "url": "https://github.com/jeremytomlinson/esp32-tempsensor/issues"
   },
-  "homepage": "https://github.com/ProjectArchetype/iot-dashboard-test"
+  "homepage": "https://github.com/jeremytomlinson/esp32-tempsensor"
 }
