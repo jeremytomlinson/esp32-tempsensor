@@ -14,4 +14,4 @@ env:
   DeployCommand: npm run deploy
   Organization: jeremytomlinson
   Repository: esp32-tempsensor
-  Output: /hello-world
+  Output: ./
