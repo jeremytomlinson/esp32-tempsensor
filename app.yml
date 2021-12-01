@@ -1,4 +1,4 @@
-name: Build and deploy Plasmic app
+name: Build and deploy ESP32 site
 
 on:
   push:
