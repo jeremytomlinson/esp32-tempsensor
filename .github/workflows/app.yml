@@ -1,0 +1,10 @@
+name:
+    ESP32 Temp Sensor Dashboard
+on:
+  push:
+    branches: [ main ]
+Jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2

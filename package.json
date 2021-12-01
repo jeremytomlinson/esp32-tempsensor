@@ -1,7 +1,7 @@
 {
-  "name": "@jeremytomlinson/iot-dashboard-test",
+  "name": "esp32-tempsensor",
   "version": "0.0.1",
-  "description": "",
+  "description": "device data dashboard",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeremytomlinson/esp32-tempsensor"
+    "url": "git+https://github.com/jeremytomlinson/esp32-tempsensor.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "jeremytomlinson",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jeremytomlinson/esp32-tempsensor/issues"
